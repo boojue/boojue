@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\Administrator\source\repos\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Administrator\source\repos\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\Administrator\source\repos\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\Administrator\source\repos\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
